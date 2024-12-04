@@ -1,4 +1,4 @@
-# React Project
+# Contacts React Project
 
 This is a simple React project that manages contacts in JSON file. The project contains two main pages:
 
