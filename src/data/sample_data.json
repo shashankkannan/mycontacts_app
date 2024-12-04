@@ -1,0 +1,168 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1990-01-15",
+      "email": "john.doe@example.com",
+      "phoneNumber": "123-456-7890",
+      "addressLine1": "123 Maple Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zipCode": "62701"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "dateOfBirth": "1985-05-23",
+      "email": "jane.smith@example.com",
+      "phoneNumber": "987-654-3210",
+      "addressLine1": "456 Oak Avenue",
+      "city": "Greenville",
+      "state": "TX",
+      "zipCode": "75401"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "dateOfBirth": "1978-08-12",
+      "email": "michael.johnson@example.com",
+      "phoneNumber": "555-123-4567",
+      "addressLine1": "789 Pine Road",
+      "city": "Riverton",
+      "state": "UT",
+      "zipCode": "84065"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "dateOfBirth": "1995-02-17",
+      "email": "emily.davis@example.com",
+      "phoneNumber": "222-333-4444",
+      "addressLine1": "321 Elm Street",
+      "city": "Columbus",
+      "state": "OH",
+      "zipCode": "43215"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Wilson",
+      "dateOfBirth": "1980-07-08",
+      "email": "david.wilson@example.com",
+      "phoneNumber": "111-222-3333",
+      "addressLine1": "654 Cedar Drive",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "73301"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Martinez",
+      "dateOfBirth": "1992-11-03",
+      "email": "sophia.martinez@example.com",
+      "phoneNumber": "888-999-0000",
+      "addressLine1": "987 Birch Lane",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85001"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Garcia",
+      "dateOfBirth": "1987-06-25",
+      "email": "james.garcia@example.com",
+      "phoneNumber": "444-555-6666",
+      "addressLine1": "246 Willow Way",
+      "city": "Charlotte",
+      "state": "NC",
+      "zipCode": "28202"
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Hernandez",
+      "dateOfBirth": "1998-09-15",
+      "email": "olivia.hernandez@example.com",
+      "phoneNumber": "777-888-9999",
+      "addressLine1": "135 Aspen Court",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80202"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Lopez",
+      "dateOfBirth": "1983-03-04",
+      "email": "matthew.lopez@example.com",
+      "phoneNumber": "666-777-8888",
+      "addressLine1": "369 Poplar Avenue",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98101"
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Brown",
+      "dateOfBirth": "1991-12-19",
+      "email": "emma.brown@example.com",
+      "phoneNumber": "999-000-1111",
+      "addressLine1": "852 Walnut Street",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "97201"
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Taylor",
+      "dateOfBirth": "1984-04-29",
+      "email": "alexander.taylor@example.com",
+      "phoneNumber": "444-111-2222",
+      "addressLine1": "159 Maplewood Drive",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33101"
+    },
+    {
+      "firstName": "Isabella",
+      "lastName": "Anderson",
+      "dateOfBirth": "1993-01-11",
+      "email": "isabella.anderson@example.com",
+      "phoneNumber": "333-444-5555",
+      "addressLine1": "753 Chestnut Lane",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601"
+    },
+    {
+      "firstName": "William",
+      "lastName": "Thomas",
+      "dateOfBirth": "1979-05-20",
+      "email": "william.thomas@example.com",
+      "phoneNumber": "222-555-8888",
+      "addressLine1": "369 Sycamore Boulevard",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94101"
+    },
+    {
+      "firstName": "Mia",
+      "lastName": "White",
+      "dateOfBirth": "1996-08-31",
+      "email": "mia.white@example.com",
+      "phoneNumber": "111-444-7777",
+      "addressLine1": "486 Redwood Street",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02101"
+    },
+    {
+      "firstName": "Benjamin",
+      "lastName": "Hall",
+      "dateOfBirth": "1990-10-22",
+      "email": "benjamin.hall@example.com",
+      "phoneNumber": "000-333-6666",
+      "addressLine1": "742 Willowbrook Lane",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "30301"
+    }
+  ]
+  
