@@ -5,15 +5,10 @@ This is a simple React project that manages contacts in JSON file. The project c
 1. **Home Page**: The landing page of the application.
 2. **View JSON Page**: A page to view JSON data - add, delete, edit, search contacts data.
 
-## Description
-
-This React project uses `react-router-dom` to handle routing between the pages. 
 
 ## Features
 
 - **React Router**: Navigation between multiple pages.
-- **Component-based Structure**: Pages are broken into separate components for maintainability and scalability.
-- **Responsive Design**: The application is designed to be responsive, adjusting to different screen sizes. The app uses pagination to manage contacts data.
 
 ## Installation
 
